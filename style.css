@@ -4,8 +4,6 @@ body {
 }
 
 section {
-  margin-top: 20px;
+  margin-top: -500px;
   padding: 20px;
-  border: 1px solid #ccc;
-  border-radius: 8px;
 }
